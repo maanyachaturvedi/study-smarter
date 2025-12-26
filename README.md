@@ -1,4 +1,4 @@
-# StudySmarter App
+# StudySmarter 
 
 A smart study planner app built with Kotlin, Jetpack Compose, and integrated AI flashcards.
 
